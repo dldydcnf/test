@@ -12,5 +12,7 @@ public class view {
 		System.out.println("동일한 같은문서 저장 테스트3");
 		System.out.println("동일한 같은문서 저장 테스트4");
 		
+		
+		System.out.println("태준아 졸려 힘내자");
 	}
 }
